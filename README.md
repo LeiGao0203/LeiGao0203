@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LeiGao0203
-- 👀 I’m interested in data analysis and actuarial science
-- 🌱 I’m currently learning R programming and SOA exams.
+- 👀 I’m interested in data science and machine learning
+- 🌱 I’m currently learning Python programming and statistcs related to data science.
 - 📫 How to reach me email address: leigaoactuarial@gmail.com
 
 <!---
